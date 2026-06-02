@@ -793,9 +793,10 @@ packages in the data stack that the user can turn to.
 
 We have but touched the surface of the large literature on choropleth mapping in particular, and geovisualization more generally. Readers interested in delving deeper into these topices are directed to the following:
 
-- [@slocum2014thematic]. Thematic Cartography and Geovisualization. Pearson.
-- [@cromely2009choropleth]. "Choropleth map legend design for visualizing community health disparities." *International Journal of Health Geographics*, 8: 1-11.
-- [@cromely1996comparison]. "A comparison of optimal classification strategies for choroplethic displays of spatiall aggregated data." *International Journal of Geographc Information Systems*, 10: 405-424.
-- [@brewer2005designming]. Designing better maps: A guide for GIS Users. ESRI press.
+
+*  @slocum2014thematic Thematic Cartography and Geovisualization. Pearson.
+* @cromley2009choropleth "Choropleth map legend design for visualizing community health disparities." *International Journal of Health Geographics*, 8: 1-11.
+* @cromley1996comparison "A comparison of optimal classification strategies for choroplethic displays of spatiall aggregated data." *International Journal of Geographc Information Systems*, 10: 405-424.
+* @brewer2005designing Designing better maps: A guide for GIS Users. ESRI press.
 
 
